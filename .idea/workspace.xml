@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1o7obhEVlZBHplJZjfTjIYA1APU" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunManager" selected="Application.Merge">
+    <configuration name="Averages" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Averages" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="A 12 3 " />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insertion" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InsertionX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionX" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecursiveBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveBinarySearch" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellSort" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="temp" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.InsertionX" />
+        <item itemvalue="Application.Insertion" />
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.RecursiveBinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="-903" key="#Exercise23" timestamp="1612901893521">
+      <screen x="-216" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="408" y="-903" key="#Exercise23/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612901893521" />
+    <state x="408" y="-903" key="#Exercise3" timestamp="1612648955230">
+      <screen x="-216" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="408" y="-903" key="#Exercise3/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612648955230" />
+    <state x="557" y="-830" key="#com.intellij.ide.util.MemberChooser" timestamp="1614669622006">
+      <screen x="-216" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="557" y="-830" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1614669622006" />
+    <state x="773" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1614104754742" />
+    <state x="557" y="-830" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1614150877232" />
+    <state x="672" y="321" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1613076968580">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="672" y="321" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1613076968580" />
+    <state x="739" y="434" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618067702227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="434" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1618067702227" />
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom" timestamp="1617979182320">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.bottom/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809806" />
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1617541234561" />
+    <state width="1899" height="387" key="GridCell.Tab.0.bottom/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001533" />
+    <state width="1090" height="226" key="GridCell.Tab.0.bottom/0.25.1440.821/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1612647337527" />
+    <state width="1920" height="320" key="GridCell.Tab.0.bottom/0.25.1440.821/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612648885216" />
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767447227" />
+    <state width="1920" height="320" key="GridCell.Tab.0.bottom/0.25.1440.875/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612900059198" />
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom/0.25.1920.988@0.25.1920.988" timestamp="1614109354288" />
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom/0.25.1920.989@0.25.1920.989" timestamp="1617979182320" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center" timestamp="1617979182320">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.center/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809804" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1617541234559" />
+    <state width="1899" height="387" key="GridCell.Tab.0.center/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001531" />
+    <state width="1090" height="226" key="GridCell.Tab.0.center/0.25.1440.821/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1612647337525" />
+    <state width="1920" height="320" key="GridCell.Tab.0.center/0.25.1440.821/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612648885213" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767447219" />
+    <state width="1920" height="320" key="GridCell.Tab.0.center/0.25.1440.875/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612900059195" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center/0.25.1920.988@0.25.1920.988" timestamp="1614109354286" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center/0.25.1920.989@0.25.1920.989" timestamp="1617979182320" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left" timestamp="1617979182319">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.left/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809802" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1617541234557" />
+    <state width="1899" height="387" key="GridCell.Tab.0.left/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001530" />
+    <state width="1090" height="226" key="GridCell.Tab.0.left/0.25.1440.821/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1612647337523" />
+    <state width="1920" height="320" key="GridCell.Tab.0.left/0.25.1440.821/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612648885211" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767447218" />
+    <state width="1920" height="320" key="GridCell.Tab.0.left/0.25.1440.875/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612900059194" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left/0.25.1920.988@0.25.1920.988" timestamp="1614109354285" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left/0.25.1920.989@0.25.1920.989" timestamp="1617979182319" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right" timestamp="1617979182320">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.right/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809805" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1617541234560" />
+    <state width="1899" height="387" key="GridCell.Tab.0.right/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001532" />
+    <state width="1090" height="226" key="GridCell.Tab.0.right/0.25.1440.821/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1612647337526" />
+    <state width="1920" height="320" key="GridCell.Tab.0.right/0.25.1440.821/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612648885214" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767447220" />
+    <state width="1920" height="320" key="GridCell.Tab.0.right/0.25.1440.875/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1612900059197" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right/0.25.1920.988@0.25.1920.988" timestamp="1614109354287" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right/0.25.1920.989@0.25.1920.989" timestamp="1617979182320" />
+    <state width="1899" height="387" key="GridCell.Tab.1.bottom" timestamp="1617979182313">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.1.bottom/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809810" />
+    <state width="1899" height="387" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1617537753353" />
+    <state width="1899" height="387" key="GridCell.Tab.1.bottom/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001537" />
+    <state width="1899" height="387" key="GridCell.Tab.1.bottom/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767446757" />
+    <state width="1899" height="387" key="GridCell.Tab.1.bottom/0.25.1920.989@0.25.1920.989" timestamp="1617979182313" />
+    <state width="1899" height="387" key="GridCell.Tab.1.center" timestamp="1617979182312">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.1.center/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809808" />
+    <state width="1899" height="387" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1617537753352" />
+    <state width="1899" height="387" key="GridCell.Tab.1.center/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001535" />
+    <state width="1899" height="387" key="GridCell.Tab.1.center/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767446755" />
+    <state width="1899" height="387" key="GridCell.Tab.1.center/0.25.1920.989@0.25.1920.989" timestamp="1617979182312" />
+    <state width="1899" height="387" key="GridCell.Tab.1.left" timestamp="1617979182312">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.1.left/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809807" />
+    <state width="1899" height="387" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1617537753351" />
+    <state width="1899" height="387" key="GridCell.Tab.1.left/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001535" />
+    <state width="1899" height="387" key="GridCell.Tab.1.left/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767446752" />
+    <state width="1899" height="387" key="GridCell.Tab.1.left/0.25.1920.989@0.25.1920.989" timestamp="1617979182312" />
+    <state width="1899" height="387" key="GridCell.Tab.1.right" timestamp="1617979182313">
+      <screen x="0" y="25" width="1920" height="989" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.1.right/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1615586809809" />
+    <state width="1899" height="387" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1617537753353" />
+    <state width="1899" height="387" key="GridCell.Tab.1.right/0.25.1440.817/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1614274001536" />
+    <state width="1899" height="387" key="GridCell.Tab.1.right/0.25.1440.875/-216.-1055.1920.1055@-216.-1055.1920.1055" timestamp="1616767446756" />
+    <state width="1899" height="387" key="GridCell.Tab.1.right/0.25.1920.989@0.25.1920.989" timestamp="1617979182313" />
+    <state x="561" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617537690240">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="561" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1617537690240" />
+    <state x="409" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1617313857836">
+      <screen x="-216" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="409" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1617313857836" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1614106195457" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>110</line>
+          <properties class="RecursiveBinarySearch" method="howMany">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/RecursiveBinarySearch.java</url>
+          <line>3</line>
+          <properties class="RecursiveBinarySearch" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>27</line>
+          <properties class="Insertion" method="sort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>51</line>
+          <properties class="Insertion" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>35</line>
+          <properties class="Insertion" method="show">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>41</line>
+          <properties class="Insertion" method="less">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Insertion.java</url>
+          <line>45</line>
+          <properties class="Insertion" method="exch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
