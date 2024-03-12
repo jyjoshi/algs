@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 * Name - Jay Joshi
 * Email - jayjoshi1109@gmail.com
-* Project Link: https://github.com/jyjoshi/sam
+* Project Link: https://github.com/jyjoshi/algs
 
 ## Acknowledgments
 
